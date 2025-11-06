@@ -1,6 +1,6 @@
 Day 5
 
-- Day 4 just finished and I'm still currently working on our finals week but I decided to take a short break and practice again for a little.
+- Day 4 was only a few hours ago and I'm still currently working on our finals week but I decided to take a short break and practice again for a little.
 
 - I decided to challenge myself and looked for a website providing beginner friendly html and css challenges.
 
